@@ -11,5 +11,4 @@ There are two files in the repository:
 
 2) presenation in HTML generated from file (1)
 
-### Note! Presentation contains LaTex equations so it may require to have installed MathJax or other Latex browser tool, 
-### to make them work properly.
+#### Note! Presentation contains LaTex equations so it may require to have installed MathJax or other Latex browser tool, to make them work properly.
