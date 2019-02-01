@@ -7,7 +7,7 @@ random forests or PCA.
 
 There are two files in the repository:
 
-1) jupyter notebook generates dataset and all the computations
+1) jupyter notebook generating dataset and all the computations
 
 2) presenation in HTML generated from file (1)
 
