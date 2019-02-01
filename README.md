@@ -1,9 +1,6 @@
 # Neural-networks-presentation
 
-Neural networks presentation consists of basic teoretical knowledge about neural networks like multi-layer perceptron
-and autoencoders with descriptions of their hyperparameters and empirical examples of how changes of hyperparameters values
-influence network's results. Additionally, results are compared with other ML methods like logistic regression, decision tress, 
-random forests or PCA.
+Neural networks presentation consists of basic teoretical knowledge about neural networks like multi-layer perceptron and autoencoders with descriptions of their hyperparameters and empirical examples of how changes of hyperparameters values influence network's results. Additionally, results are compared with other ML methods like logistic regression, decision tress, random forests or PCA.
 
 There are two files in the repository:
 
